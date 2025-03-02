@@ -23,7 +23,7 @@
 
 
 ## Contact
-[![Discord Presence](https://lanyard.cnrad.dev/api/:474804209381015553)](https://discord.com/users/:474804209381015553)
+[![Discord Presence](https://lanyard.cnrad.dev/api/474804209381015553)](https://discord.com/users/474804209381015553)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/474804209381015553)
 
 
