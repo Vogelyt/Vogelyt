@@ -15,11 +15,9 @@
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&longCache=true&style=for-the-badge)  
-![JetBrains](https://img.shields.io/badge/-JetBrains%20IDEAs-000000.svg?logo=jetbrains&logoColor=white&longCache=true&style=for-the-badge)
 ![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-000000.svg?logo=visualstudiocode&logoColor=007ACC&longCache=true&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux%20Server-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![NodeJs](https://img.shields.io/badge/NodeJS-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## Contact
