@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Wir suchen dich!</h2>
+<h2 align="center">Wir suchen dich!</h2>
 
 ###
 
