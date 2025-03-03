@@ -1,14 +1,5 @@
 <div align=center>
 
-###
-
-<h2 align="center">Wir suchen dich!</h2>
-
-###
-
-<p align="left">Bist du auf der Suche nach einem Team? <br>Kennst du dich mit Discord.py, -.js oder Website Coding aus?<br>Dann schreib mich an! <br>Denn du bist genau richtig für uns.</p>
-
-###
 
 ## Knowledge
 
